@@ -7,46 +7,48 @@ Part 1 — The Basics
 
 Answer each question using complete thoughts. You don't need to write an essay.
 
-1. What is your name??
+1. My Name is Alexa
 
-2. What computer science class(es) have you taken before?
+2. AP computer science principles
 
-3. What is something you remember learning in computer science last year?
+3. defining functions, loops, if staments and other
 
-4. What is something from last year that you have mostly forgotten?
+4. maybe small syntax things or stuff with Turtle
 
-5. Outside of school, what are you interested in?
+5. I'm interested in Robotics, Drawing, and playing the drums
 
-6. What is something you're particularly good at — technology related or not?
+6. I'm good at picking up new skills quickly and learning fast.
 
 Part 2 — You and Computer Science
 ---
 
 Rate Yourself
 
-Using a scale of 1–5, rate your current confidence with each of these:
+## Using a scale of 1–5, rate your current confidence with each of these:
 
-+ Programming
++ Programming 3
 
-+ Python
++ Python 2-3
 
-+ Debugging
++ Debugging 4
 
-+ GitHub
++ GitHub 2
 
-+ VS Code
++ VS Code 3
 
-+ Working with files and folders
++ Working with files and folders 3
 
-+ Using the terminal
++ Using the terminal 2
 
-+ Figuring things out when nobody gives you step-by-step instructions
++ Figuring things out when nobody gives you step-by-step instructions  4
 
-Then answer:
+### Then answer:
 
 + Which rating are you most confident about? Why?
+    + probably the figuring stuff out with out step by step instructions because I tend to firgure stuff out after a lot of trial and error.
 
-+ Which rating do you most want to improve this year? Why?
++ Which rating do you most want to improve this year? Why? 
+    + probably git Hub because I usally haave help doing a lot of stuff with it and I want to get more confortable
 
 Part 3 — Pick Your Poison
 ---
@@ -59,25 +61,25 @@ Example:
 
 Choose one:
 
-+  Python or Java
++  Python or **Java**
 
-+ Mac or PC
++ Mac or **PC**
 
-+ GUI or Command Line
++ **GUI** or Command Line
 
-+ Build something useful or build something ridiculous
++ **Build something useful** or build something ridiculous
 
-+ Work alone or work with a team
++ **Work alone** or work with a team
 
-+ Hardware or Software
++ Hardware or **Software**
 
-+ Fix a bug or start over
++ **Fix a bug** or start over
 
-+ Google it or figure it out yourself
++ **Google it** or figure it out yourself
 
-+ Game development or AI
++ **Game development** or AI
 
-+ Cybersecurity or Data Science
++ **Cybersecurity** or Data Science
 
 Part 4 — Your Technology
 ---
